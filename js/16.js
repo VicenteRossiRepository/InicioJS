@@ -3,7 +3,6 @@ sumar();
 function sumar(){
     console.log(10+10);
 }
-
 //Se puede llamar la funcion antes de declararla
 
 // expresion de la funcion
